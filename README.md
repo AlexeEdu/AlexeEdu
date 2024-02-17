@@ -17,9 +17,9 @@ Com foco em Beack End e as linguagens para se tornar um Full Stack.
 
 Contato:
 
-<a href="https://www.linkedin.com/in/alex-edu-zaborowski/"></a>
+<a href="https://www.linkedin.com/in/alex-edu-zaborowski/">
 <img align="left" Alt="LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-<a href="https://api.whatsapp.com/send?phone=5542988011028&text=Ol%C3%A1%20me%20chamo%20Alex!%20como%20posso%20ajudar?"></a>
+<a href="https://api.whatsapp.com/send?phone=5542988011028&text=Ol%C3%A1%20me%20chamo%20Alex!%20como%20posso%20ajudar?">
 <img align="left" Alt="Whatsapp" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg"/>
 <br>
 <br>
